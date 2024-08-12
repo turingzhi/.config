@@ -57,6 +57,7 @@ sudo /opt/homebrew/bin/yabai --load-sa
 /opt/homebrew/bin/yabai -m rule --add app="^WhatsApp$" sub-layer=normal manage=off
 /opt/homebrew/bin/yabai -m rule --add app="^Magnet$" manage=off
 /opt/homebrew/bin/yabai -m rule --add app="^WeChat$" sub-layer=normal manage=off
+/opt/homebrew/bin/yabai -m rule --add app="^Karabiner-Elements$" sub-layer=normal manage=off
 /opt/homebrew/bin/yabai -m rule --add app="^QQ$" sub-layer=normal manage=off
 /opt/homebrew/bin/yabai -m rule --add app="^Music$" sub-layer=normal manage=off
 yabai -m rule --apply
