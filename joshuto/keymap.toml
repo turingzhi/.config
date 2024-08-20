@@ -137,6 +137,7 @@ keymap = [
   { keys = ["g", "c"], commands = ["cd ~/.config"] },
   { keys = ["g", "n"], commands = ["cd ~/.config/nvim/lua/config/plugins"] },
   { keys = ["g", "d"], commands = ["cd ~/Documents"] },
+  { keys = ["g", "t"], commands = ["cd ~/Documents/github/hexo/turingzhi"] },
   { keys = ["g", "l"], commands = ["cd ~/.local/share/nvim/lazy"] },
   { keys = ["g", "e"], commands = ["cd /etc"] },
   { keys = ["g", "j"], commands = ["cd ~/.config/joshuto"] },
