@@ -134,6 +134,7 @@ keymap = [
 
   { keys = ["g", "r"], commands = ["cd /"] },
   { keys = ["g", "h"], commands = ["cd ~/"] },
+  { keys = ["g", "/"], commands = ["cd ~/"] },
   { keys = ["g", "c"], commands = ["cd ~/.config"] },
   { keys = ["g", "n"], commands = ["cd ~/.config/nvim/lua/config/plugins"] },
   { keys = ["g", "d"], commands = ["cd ~/Documents"] },

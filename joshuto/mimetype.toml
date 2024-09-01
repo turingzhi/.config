@@ -25,7 +25,7 @@ text_default	= [
 ]
 
 reader_default	= [
-	{ command = "evince", fork = true, silent = true },
+	{ command = "open", args = [ "-a", "Preview"], fork = true, silent = true },
 ]
 
 libreoffice_default	= [

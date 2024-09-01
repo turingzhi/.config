@@ -34,35 +34,36 @@ sudo /opt/homebrew/bin/yabai --load-sa
 /opt/homebrew/bin/yabai -m config right_padding 00
 /opt/homebrew/bin/yabai -m config window_gap 05
 # yabai -m config window_animation_duration    0.00
-/opt/homebrew/bin/yabai -m rule --add app=".*" sub-layer=normal
+/opt/homebrew/bin/yabai -m rule --add app=".*" sub-layer=normal manage=off
 
-/opt/homebrew/bin/yabai -m rule --add app="^iStat*" sticky=on sub-layer=above manage=off border=off
-/opt/homebrew/bin/yabai -m rule --add app="^System Settings*" manage=off sub-layer=normal
-/opt/homebrew/bin/yabai -m rule --add app="^System Information$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Activity Monitor$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Finder$" sticky=on sub-layer=normal manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Preview$" sticky=on sub-layer=normal manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Alfred Preferences$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Feishu$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Lark$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Lark Meetings$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Seal$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^AppCleaner$" sticky=off sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Karabiner-Elements$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Karabiner-EventViewer$" sticky=on sub-layer=above manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Things$" manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Spotify$" manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Bartender 4$" manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^BetterTouchTool$" manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^WhatsApp$" sub-layer=normal manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Magnet$" manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^WeChat$" sub-layer=normal manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Karabiner-Elements$" sub-layer=normal manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^QQ$" sub-layer=normal manage=off
-/opt/homebrew/bin/yabai -m rule --add app="^Music$" sub-layer=normal manage=off
-yabai -m rule --apply
+# /opt/homebrew/bin/yabai -m rule --add app="^System Settings*" manage=off sub-layer=normal
+# /opt/homebrew/bin/yabai -m rule --add app="^System Information$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Activity Monitor$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Finder$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Preview$" sub-layer=normal manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Alfred Preferences$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Feishu$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Lark$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Lark Meetings$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Seal$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^AppCleaner$" sticky=off sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Karabiner-Elements$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Karabiner-EventViewer$" sticky=on sub-layer=above manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Things$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Spotify$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Outlook$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Microsoft Outlook$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Bartender 4$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^BetterTouchTool$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^WhatsApp$" is-floating=off sub-layer=normal
+# /opt/homebrew/bin/yabai -m rule --add app="^Magnet$" manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^WeChat$" sub-layer=normal manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^QQ$" sub-layer=normal manage=off
+# /opt/homebrew/bin/yabai -m rule --add app="^Music$" sub-layer=normal manage=off
+/opt/homebrew/bin/yabai -m rule --add app="^iTerm2$" sub-layer=normal manage=on
+/opt/homebrew/bin/yabai -m rule --add app="^Safari$" sub-layer=normal manage=on
 
 # borders active_color=0xffe1e3e4 inactive_color=0xff494d64 width=5.0 &
 
 echo "yabai configuration loaded.."
-/opt/homebrew/bin/yabai -m rule --apply
+yabai -m rule --apply
