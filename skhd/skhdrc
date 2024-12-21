@@ -1,5 +1,7 @@
 # opens iTerm2
-alt - return : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
+cmd - return : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
+# opens Safari
+alt - return : osascript -e 'tell application "Safari" to create window with default profile command ""' || open -na Safari
 # alt - return : open -na "/Applications/iTerm.app"
 # reload skhd configuration
 ctrl + alt + cmd - r : skhd --reload
@@ -57,7 +59,6 @@ yabai -m space --focus "${index}"
 
 # destroy the current space
 alt - i : yabai -m space --focus prev && yabai -m space next --destroy
-alt - d : yabai -m space --focus prev && yabai -m space next --destroy
 
 # move the current space to the next display
 ctrl + alt + shift - right : yabai -m space --move next
@@ -70,6 +71,6 @@ alt - r : yabai -m space --focus recent
 # alt - j : yabai -m space --focus next
 
 ## create desktop, move window and follow focus - uses jq for parsing json (brew install jq)
-shift + alt - n : yabai -m space --create && \
-                index="$(yabai -m query --spaces --display | opt/homebre/bin/jq 'map(select(."windows" == []"))[-1].index')" && \
-                yabai -m space --focus "${index}"
+# shift + alt - n : yabai -m space --create && \
+                # index="$(yabai -m query --spaces --display | opt/homebre/bin/jq 'map(select(."windows" == []"))[-1].index')" && \
+                # yabai -m space --focus "${index}"
