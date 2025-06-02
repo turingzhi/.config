@@ -4,12 +4,12 @@
 
 # ... but these:
 !/.gitignore
-!/joshuto/
 !/karabiner/
 !/MacSetting/
 !/skhd/
 !/tmux/
 !/yabai/
+!/yazi/
 !/zsh/
 !/.zshrc
 
