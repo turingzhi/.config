@@ -45,8 +45,8 @@ keymap = [
 
 	{ on = "<C-u>", run = "arrow -50%",  desc = "Move cursor up half page" },
 	{ on = "<C-d>", run = "arrow 50%",   desc = "Move cursor down half page" },
-	{ on = "<C-b>", run = "arrow -100%", desc = "Move cursor up one page" },
-	{ on = "<C-f>", run = "arrow 100%",  desc = "Move cursor down one page" },
+	# { on = "<C-b>", run = "arrow -100%", desc = "Move cursor up one page" },
+	# { on = "<C-f>", run = "arrow 100%",  desc = "Move cursor down one page" },
 
 	{ on = "<S-PageUp>",   run = "arrow -50%",  desc = "Move cursor up half page" },
 	{ on = "<S-PageDown>", run = "arrow 50%",   desc = "Move cursor down half page" },
@@ -108,7 +108,7 @@ keymap = [
 	{ on = "S",         run = "search --via=rg",             desc = "Search files by content via ripgrep" },
 	{ on = "<C-s>",     run = "escape --search",             desc = "Cancel the ongoing search" },
 	{ on = "z",         run = "plugin zoxide",               desc = "Jump to a directory via zoxide" },
-	{ on = "Z",         run = "plugin fzf",                  desc = "Jump to a file/directory via fzf" },
+	{ on = "<C-f>",         run = "plugin fzf",                  desc = "Jump to a file/directory via fzf" },
 
 	# Linemode
 	{ on = [ "m", "s" ], run = "linemode size",        desc = "Linemode: size" },
@@ -165,7 +165,7 @@ keymap = [
   { on = [ "g", "e" ], run = "cd /etc", desc = "Goto /etc" },
   { on = [ "g", "j" ], run = "cd ~/.config/joshuto", desc = "Goto Joshuto config" },
   { on = [ "g", "z" ], run = "cd ~/.config/zsh", desc = "Goto Zsh config" },
-  { on = [ "g", "s" ], run = "cd ~/Documents/semester3-exchange", desc = "Goto Semester 3 documents" },
+  { on = [ "g", "s" ], run = "cd ~/Documents/semester4", desc = "Goto Semester4" },
   { on = [ "g", "y" ], run = "cd ~/.config/yazi", desc = "Goto yazi config" },
   { on = [ "g", "a" ], run = "cd ~/Documents/csdiy/CS61A", desc = "Goto CS61A" },
   { on = [ "?", "<Space>" ], run = "help", desc = "Show help" },
@@ -286,8 +286,8 @@ keymap = [
 	{ on = "l",       run = "move 1",  desc = "Move forward a character" },
 	{ on = "<Left>",  run = "move -1", desc = "Move back a character" },
 	{ on = "<Right>", run = "move 1",  desc = "Move forward a character" },
-	{ on = "<C-b>",   run = "move -1", desc = "Move back a character" },
-	{ on = "<C-f>",   run = "move 1",  desc = "Move forward a character" },
+	# { on = "<C-b>",   run = "move -1", desc = "Move back a character" },
+	# { on = "<C-f>",   run = "move 1",  desc = "Move forward a character" },
 
 	# Word-wise movement
 	{ on = "b",     run = "backward",              desc = "Move back to the start of the current or previous word" },
