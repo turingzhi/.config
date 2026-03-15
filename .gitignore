@@ -9,9 +9,10 @@
 !/skhd/
 !/tmux/
 !/yabai/
-!/yazi/
+!/kitty/
 !/zsh/
 !/.zshrc
+tmux/plugins/
 
 
 

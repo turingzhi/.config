@@ -1,7 +1,7 @@
 # opens iTerm2
 cmd - return : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
 # opens Safari
-alt - return : osascript -e 'tell application "Safari" to create window with default profile command ""' || open -na Safari
+# alt - return : osascript -e 'tell application "Safari" to create window with default profile command ""' || open -na Safari
 # alt - return : open -na "/Applications/iTerm.app"
 # reload skhd configuration
 ctrl + alt + cmd - r : skhd --reload

@@ -1,0 +1,224 @@
+[2025-12-22 13:26:31.344]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-22 13:26:31.356]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 13:26:31.396]	 Installing "tmux-resurrect"
+[2025-12-22 13:26:31.396]	 Installing "tmux-continuum"
+[2025-12-22 13:26:32.032]	   "tmux-continuum" download success
+[2025-12-22 13:26:32.649]	   "tmux-resurrect" download success
+[2025-12-22 13:26:32.662]	 Done.
+
+[2025-12-22 13:26:59.888]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-22 13:26:59.899]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 13:26:59.945]	 Already installed "tmux-continuum"
+[2025-12-22 13:26:59.945]	 Already installed "tmux-resurrect"
+[2025-12-22 13:26:59.956]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 13:27:00.201]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-22 13:27:00.213]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-22 13:27:00.260]	 Already installed "tmux-continuum"
+[2025-12-22 13:27:00.260]	 Already installed "tmux-resurrect"
+[2025-12-22 13:27:00.270]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-22 13:26:59.975]	 Updating all plugins!
+[2025-12-22 13:26:59.976]	 
+[2025-12-22 13:27:00.441]	   "tmux-resurrect" update success
+[2025-12-22 13:27:00.443]	     | Already up to date.
+[2025-12-22 13:27:00.462]	   "tmux-continuum" update success
+[2025-12-22 13:27:00.465]	     | Already up to date.
+[2025-12-22 13:27:00.475]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 13:27:00.525]	 Done.
+
+[2025-12-22 13:27:00.290]	 Updating all plugins!
+[2025-12-22 13:27:00.291]	 
+[2025-12-22 13:27:00.774]	   "tmux-resurrect" update success
+[2025-12-22 13:27:00.776]	     | Already up to date.
+[2025-12-22 13:27:00.781]	   "tmux-continuum" update success
+[2025-12-22 13:27:00.783]	     | Already up to date.
+[2025-12-22 13:27:00.794]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-22 13:27:00.828]	 Removing "tmux-continuum"
+[2025-12-22 13:27:00.832]	   "tmux-continuum" clean success
+[2025-12-22 13:27:00.835]	 Removing "tmux-resurrect"
+[2025-12-22 13:27:00.843]	   "tmux-resurrect" clean success
+[2025-12-22 13:27:00.857]	 Done.
+
+[2025-12-25 03:56:53.798]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-25 03:56:53.810]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 03:56:53.848]	 Installing "tmux-resurrect"
+[2025-12-25 03:56:53.849]	 Installing "tmux-continuum"
+[2025-12-25 03:56:54.543]	   "tmux-continuum" download success
+[2025-12-25 03:56:55.110]	   "tmux-resurrect" download success
+[2025-12-25 03:56:55.123]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 03:56:55.143]	 Updating all plugins!
+[2025-12-25 03:56:55.143]	 
+[2025-12-25 03:56:55.645]	   "tmux-resurrect" update success
+[2025-12-25 03:56:55.648]	     | Already up to date.
+[2025-12-25 03:56:55.655]	   "tmux-continuum" update success
+[2025-12-25 03:56:55.657]	     | Already up to date.
+[2025-12-25 03:56:55.668]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 03:56:55.719]	 Done.
+
+[2025-12-25 03:58:45.863]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-25 03:58:45.875]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 03:58:45.920]	 Already installed "tmux-continuum"
+[2025-12-25 03:58:45.920]	 Already installed "tmux-resurrect"
+[2025-12-25 03:58:45.931]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 03:58:45.951]	 Updating all plugins!
+[2025-12-25 03:58:45.951]	 
+[2025-12-25 03:58:46.423]	   "tmux-resurrect" update success
+[2025-12-25 03:58:46.425]	     | Already up to date.
+[2025-12-25 03:58:46.439]	   "tmux-continuum" update success
+[2025-12-25 03:58:46.441]	     | Already up to date.
+[2025-12-25 03:58:46.452]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 03:58:46.501]	 Done.
+
+[2025-12-25 04:01:06.334]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-25 04:01:06.346]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 04:01:06.392]	 Already installed "tmux-continuum"
+[2025-12-25 04:01:06.392]	 Already installed "tmux-resurrect"
+[2025-12-25 04:01:06.402]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 04:01:06.422]	 Updating all plugins!
+[2025-12-25 04:01:06.422]	 
+[2025-12-25 04:01:06.947]	   "tmux-resurrect" update success
+[2025-12-25 04:01:06.948]	   "tmux-continuum" update success
+[2025-12-25 04:01:06.950]	     | Already up to date.
+[2025-12-25 04:01:06.950]	     | Already up to date.
+[2025-12-25 04:01:06.961]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 04:01:07.010]	 Done.
+
+[2025-12-25 04:02:22.435]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-25 04:02:22.446]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 04:02:22.493]	 Already installed "tmux-resurrect"
+[2025-12-25 04:02:22.494]	 Already installed "tmux-continuum"
+[2025-12-25 04:02:22.504]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 04:02:22.524]	 Updating all plugins!
+[2025-12-25 04:02:22.524]	 
+[2025-12-25 04:02:23.016]	   "tmux-resurrect" update success
+[2025-12-25 04:02:23.018]	     | Already up to date.
+[2025-12-25 04:02:23.019]	   "tmux-continuum" update success
+[2025-12-25 04:02:23.021]	     | Already up to date.
+[2025-12-25 04:02:23.031]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 04:02:23.081]	 Done.
+
+[2025-12-25 04:02:54.278]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-25 04:02:54.289]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 04:02:54.334]	 Already installed "tmux-continuum"
+[2025-12-25 04:02:54.334]	 Already installed "tmux-resurrect"
+[2025-12-25 04:02:54.344]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 04:02:54.365]	 Updating all plugins!
+[2025-12-25 04:02:54.365]	 
+[2025-12-25 04:02:54.851]	   "tmux-continuum" update success
+[2025-12-25 04:02:54.853]	     | Already up to date.
+[2025-12-25 04:02:54.876]	   "tmux-resurrect" update success
+[2025-12-25 04:02:54.878]	     | Already up to date.
+[2025-12-25 04:02:54.889]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 04:02:54.938]	 Done.
+
+[2025-12-25 04:06:00.964]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-25 04:06:00.975]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 04:06:01.021]	 Already installed "tmux-continuum"
+[2025-12-25 04:06:01.021]	 Already installed "tmux-resurrect"
+[2025-12-25 04:06:01.032]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 04:06:01.051]	 Updating all plugins!
+[2025-12-25 04:06:01.052]	 
+[2025-12-25 04:06:01.529]	   "tmux-resurrect" update success
+[2025-12-25 04:06:01.531]	     | Already up to date.
+[2025-12-25 04:06:01.546]	   "tmux-continuum" update success
+[2025-12-25 04:06:01.548]	     | Already up to date.
+[2025-12-25 04:06:01.559]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 04:06:01.608]	 Done.
+
+[2025-12-29 23:10:05.009]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2025-12-29 23:10:05.020]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-29 23:10:05.066]	 Already installed "tmux-resurrect"
+[2025-12-29 23:10:05.067]	 Already installed "tmux-continuum"
+[2025-12-29 23:10:05.077]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-29 23:10:05.097]	 Updating all plugins!
+[2025-12-29 23:10:05.097]	 
+[2025-12-29 23:10:05.660]	   "tmux-resurrect" update success
+[2025-12-29 23:10:05.662]	     | Already up to date.
+[2025-12-29 23:10:05.666]	   "tmux-continuum" update success
+[2025-12-29 23:10:05.668]	     | Already up to date.
+[2025-12-29 23:10:05.680]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-29 23:10:05.734]	 Done.
+
+[2026-01-23 14:57:40.099]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2026-01-23 14:57:40.111]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-01-23 14:57:40.157]	 Already installed "tmux-resurrect"
+[2026-01-23 14:57:40.157]	 Already installed "tmux-continuum"
+[2026-01-23 14:57:40.168]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-01-23 14:57:40.188]	 Updating all plugins!
+[2026-01-23 14:57:40.188]	 
+[2026-01-23 14:57:40.807]	   "tmux-resurrect" update success
+[2026-01-23 14:57:40.813]	     | Already up to date.
+[2026-01-23 14:57:40.842]	   "tmux-continuum" update success
+[2026-01-23 14:57:40.849]	     | Already up to date.
+[2026-01-23 14:57:40.865]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-01-23 14:57:40.985]	 Done.
+
+[2026-02-05 10:57:20.937]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2026-02-05 10:57:20.948]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-02-05 10:57:20.995]	 Already installed "tmux-resurrect"
+[2026-02-05 10:57:20.995]	 Already installed "tmux-continuum"
+[2026-02-05 10:57:21.005]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-02-05 10:57:21.025]	 Updating all plugins!
+[2026-02-05 10:57:21.025]	 
+[2026-02-05 10:57:21.647]	   "tmux-continuum" update success
+[2026-02-05 10:57:21.649]	     | Already up to date.
+[2026-02-05 10:57:21.707]	   "tmux-resurrect" update success
+[2026-02-05 10:57:21.709]	     | Already up to date.
+[2026-02-05 10:57:21.720]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-02-05 10:57:21.768]	 Done.
+
+[2026-02-12 12:11:19.629]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2026-02-12 12:11:19.641]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-02-12 12:11:19.697]	 Already installed "tmux-resurrect"
+[2026-02-12 12:11:19.697]	 Already installed "tmux-continuum"
+[2026-02-12 12:11:19.708]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-02-12 12:11:19.732]	 Updating all plugins!
+[2026-02-12 12:11:19.732]	 
+[2026-02-12 12:11:20.496]	   "tmux-resurrect" update success
+[2026-02-12 12:11:20.499]	     | Already up to date.
+[2026-02-12 12:11:20.511]	   "tmux-continuum" update success
+[2026-02-12 12:11:20.513]	     | Already up to date.
+[2026-02-12 12:11:20.524]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-02-12 12:11:20.575]	 Done.
+
+[2026-02-19 01:25:22.794]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2026-02-19 01:25:22.806]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-02-19 01:25:22.854]	 Already installed "tmux-resurrect"
+[2026-02-19 01:25:22.855]	 Already installed "tmux-continuum"
+[2026-02-19 01:25:22.866]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-02-19 01:25:22.892]	 Updating all plugins!
+[2026-02-19 01:25:22.893]	 
+[2026-02-19 01:25:23.493]	   "tmux-resurrect" update success
+[2026-02-19 01:25:23.496]	     | Already up to date.
+[2026-02-19 01:25:23.517]	   "tmux-continuum" update success
+[2026-02-19 01:25:23.519]	     | Already up to date.
+[2026-02-19 01:25:23.530]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-02-19 01:25:23.580]	 Done.
+
+[2026-03-01 04:02:38.849]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2026-03-01 04:02:38.877]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-03-01 04:02:39.024]	 Already installed "tmux-continuum"
+[2026-03-01 04:02:39.026]	 Already installed "tmux-resurrect"
+[2026-03-01 04:02:39.070]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-03-01 04:02:39.500]	 Updating all plugins!
+[2026-03-01 04:02:39.502]	 
+[2026-03-01 04:02:41.154]	   "tmux-resurrect" update success
+[2026-03-01 04:02:41.174]	     | Already up to date.
+[2026-03-01 04:02:41.283]	   "tmux-continuum" update success
+[2026-03-01 04:02:41.299]	     | Already up to date.
+[2026-03-01 04:02:41.338]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-03-01 04:02:41.614]	 Done.
+
+[2026-03-13 12:23:41.104]	 List of discovered tpm plugins: tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum
+[2026-03-13 12:23:41.115]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/install_plugins
+[2026-03-13 12:23:41.162]	 Already installed "tmux-resurrect"
+[2026-03-13 12:23:41.163]	 Already installed "tmux-continuum"
+[2026-03-13 12:23:41.173]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/update_plugins all
+[2026-03-13 12:23:41.193]	 Updating all plugins!
+[2026-03-13 12:23:41.194]	 
+[2026-03-13 12:23:41.850]	   "tmux-continuum" update success
+[2026-03-13 12:23:41.855]	     | Already up to date.
+[2026-03-13 12:23:41.958]	   "tmux-resurrect" update success
+[2026-03-13 12:23:41.966]	     | Already up to date.
+[2026-03-13 12:23:41.985]	 Invoking /Users/kaizhi/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2026-03-13 12:23:42.118]	 Done.
+
